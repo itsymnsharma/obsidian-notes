@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "4ecf8755fc92fcb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa6f9ba019cf731e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "274d6238e18b1bce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f26025ffbe9f4baa",
+    "type": "split",
+    "children": [
+      {
+        "id": "2345fb28599132b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5278d411bfa9a7a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e7aaff201c61f741",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6e364196ac7b6f50",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.5
+  },
+  "right": {
+    "id": "b2fb8d7f3a79d419",
+    "type": "split",
+    "children": [
+      {
+        "id": "8027261022684ea3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fff07e4bea63c9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SKILLS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SKILLS"
+            }
+          },
+          {
+            "id": "31f1d3fedf1eb1de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SKILLS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SKILLS"
+            }
+          },
+          {
+            "id": "b3282072b5b2a570",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ff9ca4bb04cbca03",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0cb1c37ab9cd6d1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SKILLS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SKILLS"
+            }
+          },
+          {
+            "id": "27fa7422afc34af9",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "483b82527904c683",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "274d6238e18b1bce",
+  "lastOpenFiles": [
+    "BACKEND/Python/04 Conditionals.md",
+    "README.md",
+    "BACKEND/Python/03 Functions.md",
+    "BACKEND/Python/02 Strings.md",
+    "BACKEND/Python/01 Input and Output.md",
+    "Attachments/Pasted image 20260316175918.png",
+    "Attachments/Pasted image 20260316180745.png",
+    "Attachments/Pasted image 20260316181724.png",
+    "Attachments/Pasted image 20260316181440.png",
+    "Attachments/Pasted image 20260316183500.png",
+    "Attachments/Pasted image 20260316210425.png",
+    "Attachments/Pasted image 20260316213737.png",
+    "Attachments/Pasted image 20260316210241.png",
+    "Attachments/Pasted image 20260316180407.png",
+    "Attachments/Pasted image 20260316180153.png",
+    "DATABASES/SQL/03 Relating.md",
+    "DATABASES/SQL/02 Querying.md",
+    "DATABASES/SQL/01 Databases and SQL.md",
+    "Weekly Ideas, Topics or Doubts Board.md",
+    "FRONTEND/SolidJS/03 Building a signal from scratch.md",
+    "FRONTEND/SolidJS/02 Signals.md",
+    "FRONTEND/SolidJS/01 Reactivity.md",
+    "FRONTEND/Signals/02  How Signals Solve These Problems.md",
+    "FRONTEND/Signals/01 Problems Signal Solve.md",
+    "Attachments",
+    "FRONTEND/Signals/03 Signals are Functions.md",
+    "FRONTEND/SolidJS",
+    "This Week - 15 March, 2026 - 21 March, 2026.md",
+    "FRONTEND/Signals",
+    "ENGLISH/Vocabulary.md",
+    "ENGLISH",
+    "FRONTEND/Module Bundling",
+    "DATASTRUCTURES-ALGORITHMS/Queue",
+    "DATASTRUCTURES-ALGORITHMS/Stack",
+    "DATASTRUCTURES-ALGORITHMS/Arrays",
+    "DATASTRUCTURES-ALGORITHMS",
+    "ARTIFICIAL INTELLIGENCE/AGENTS",
+    "SKILLS.md",
+    "Python/03 Functions.md",
+    "Python/02 Strings.md",
+    "Python/01 Input and Output.md",
+    "SQL/02 Querying.md",
+    "SQL/01 Databases and SQL.md",
+    "Artificial Intelligence/Agents/02 Create a basic Agent Runner.md",
+    "Artificial Intelligence/Agents/03 Tool Calling.md",
+    "Artificial Intelligence/Agents/01 Introduction to Agents.md",
+    "Untitled.canvas"
+  ]
+}
