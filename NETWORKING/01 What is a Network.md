@@ -84,6 +84,12 @@ a browser on click of a hypertext or going to an ip address can ask for a documn
 
 at first it was only GET protocol, like can ask docs from server to browser, cant send from browser to server
 
+HTTP protocol is made on top of TCP
+
+tcp was for single files maybe long back and http for hyper text files which were interlinked and opens only on browser
+
+? does for single file sent underneath http uses tcp
+
 then www became public
 
 after html, css and js came
