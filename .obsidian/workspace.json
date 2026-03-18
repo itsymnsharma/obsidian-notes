@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NETWORKING/Networking devices.md",
+                "file": "NETWORKING/creating own lan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Networking devices"
+              "title": "creating own lan"
             }
           }
         ],
@@ -225,8 +225,10 @@
   },
   "active": "38f317add7a2f7fd",
   "lastOpenFiles": [
-    "NETWORKING/01 What is a Network.md",
+    "NETWORKING/Network Types.md",
+    "NETWORKING/creating own lan.md",
     "NETWORKING/Networking devices.md",
+    "NETWORKING/01 What is a Network.md",
     "README.md",
     "NETWORKING",
     "test-sync.md.md",
@@ -269,8 +271,6 @@
     "Python/03 Functions.md",
     "Python/02 Strings.md",
     "Python/01 Input and Output.md",
-    "SQL/02 Querying.md",
-    "SQL/01 Databases and SQL.md",
     "Untitled.canvas"
   ]
 }
