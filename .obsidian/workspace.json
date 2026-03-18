@@ -208,8 +208,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "274d6238e18b1bce",
+  "active": "5278d411bfa9a7a5",
   "lastOpenFiles": [
+    "NETWORKING",
     "test-sync.md.md",
     "README.md",
     "BACKEND/Python/04 Conditionals.md",
@@ -255,7 +256,6 @@
     "SQL/02 Querying.md",
     "SQL/01 Databases and SQL.md",
     "Artificial Intelligence/Agents/02 Create a basic Agent Runner.md",
-    "Artificial Intelligence/Agents/03 Tool Calling.md",
     "Untitled.canvas"
   ]
 }
